@@ -1,0 +1,15 @@
+.second {
+  background: @primary-color;
+  border-color: @primary-color;
+  &:hover,
+  &:focus,
+  &:active {
+    background: fade(@primary-color, 65%);
+    border-color: fade(@primary-color, 65%);
+  }
+}
+
+.primary-border {
+  border-color: @primary-color;
+  color: @primary-color;
+}
