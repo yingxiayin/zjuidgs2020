@@ -1,4 +1,4 @@
-# shengcai-contact project
+# zjuidgs2020 project
 
 ## Getting Started
 
